@@ -15,3 +15,12 @@ This project explores the relationship between Bitcoin market sentiment (Fear/Gr
 ## Instructions
 - Open `analysis_notebook.ipynb` to view step-by-step analysis and visualizations.
 - All plots and insights are included as markdown cells in the notebook.
+
+  ## Observations / Insights
+- Total Trades vs Sentiment: Highest on 'Greed' days → more market activity during positive sentiment.
+- Win Rate vs Sentiment: Win rate highest on 'Greed' days, lowest on 'Fear' days → sentiment affects trade success.
+- Average Trade Size vs Sentiment: Larger trades on 'Extreme Greed' days → traders take bigger positions during high optimism.
+
+  ## Author
+Khushi Rawat
+
